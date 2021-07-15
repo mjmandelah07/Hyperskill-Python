@@ -1,20 +1,59 @@
-Sometimes you need to explain what some particular parts of your code are for.
- You can leave special notes called comments.
-
-                What is a comment?
-Python comments start with a hash #.
- Everything after the hash mark and up to the end of the line is regarded as a comment and will be ignored when running the code.
+# Sometimes you need to explain what some particular parts of your code are for.
+# You can leave special notes called comments
+# What is a comment?
+# Python comments start with a hash #.
+# Everything after the hash mark and up to the end of the line is regarded as a comment and will be ignored when running the code.
 
      print("This will run.")  # This won't run
 
-In the example above, you can see what PEP 8 calls an inline comment because it's written on the same line as the code.
+# In the example above, you can see what PEP 8 calls an inline comment because it's written on the same line as the code.
 
-A comment can also refer to the block of code that follows it:
+# A comment can also refer to the block of code that follows it:
 
 # Outputs three numbers
       print("1")
       print("2")
       print("3")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
        Formatting comments
