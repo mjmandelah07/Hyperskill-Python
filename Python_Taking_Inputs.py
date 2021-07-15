@@ -23,7 +23,4 @@ value = int(input())  # now value keeps an integer number
 
 # To read several inputs, you should call the function more than once:
 day = int(input())  # 4
-month = input()     # October
-
-
-
+month = input()  # October
